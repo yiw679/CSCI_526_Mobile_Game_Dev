@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Homecoming",
+"productVersion": "0.1",
+"dataUrl": "CSCI526GameDev.data.unityweb",
+"wasmCodeUrl": "CSCI526GameDev.wasm.code.unityweb",
+"wasmFrameworkUrl": "CSCI526GameDev.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1c1"
+}
